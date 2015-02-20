@@ -1,5 +1,5 @@
 APPNAME="smooth_panning_zoom"
-NDK_ROOT="C:\work\android-ndk-r8e"
+#NDK_ROOT="C:\work\android-ndk-r8e"
 
 # options
 
